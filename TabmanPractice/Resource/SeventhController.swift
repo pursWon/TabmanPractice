@@ -1,9 +1,7 @@
-
 import Tabman
 import Pageboy
 
-class ViewController10: TabmanViewController {
-
+class SeventhViewController: TabmanViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 

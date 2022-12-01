@@ -1,13 +1,12 @@
 import Tabman
 import Pageboy
 
-class ViewController5: TabmanViewController {
+class ThirdViewController: TabmanViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-    }
-    
 
+    }
 
 }
